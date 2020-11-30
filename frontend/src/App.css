@@ -1,0 +1,44 @@
+.navbar-brand{
+  font-size:18px;
+  font-weight:bold;
+  padding:10px;
+}
+
+/* .container{
+  background-color:grey;
+} */
+/* 
+.head{
+  background-color:bisque;
+} */
+ 
+.navbar-item{
+  padding:5px;
+}
+
+
+.container{
+  background-color:aliceblue;
+}
+
+.explanation{
+  padding-top:10px;
+  font-size:12px;
+  font-weight:bold;
+  padding:10px;
+  background-color:darkcyan;
+  text-align:center;
+  color:white;
+}
+.nav.nav-nav li a{
+  color:white;
+}
+.exp{
+  margin-top:20px;
+  margin-left:20px;
+  font-size:20px;
+}
+
+.revbut{
+  margin-top:50px;
+}
